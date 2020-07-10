@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.invoiceCab.InvoiceGeneratorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-10T20:04:37" hostname="KAJAL-LAPTOP" time="0.002">
+<testsuite name="com.invoiceCab.InvoiceGeneratorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-10T20:13:55" hostname="KAJAL-LAPTOP" time="0.003">
   <properties/>
-  <testcase name="givenDistanceAndTime_ShouldReturnTotalFare" classname="com.invoiceCab.InvoiceGeneratorTest" time="0.002"/>
+  <testcase name="givenLessDistanceAndTime_ShouldReturnMinimumFare" classname="com.invoiceCab.InvoiceGeneratorTest" time="0.003"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
